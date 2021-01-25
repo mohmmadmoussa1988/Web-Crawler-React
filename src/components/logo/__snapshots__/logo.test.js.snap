@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo should render image with link to home page 1`] = `
+<Link
+  to="/"
+>
+  <styled.img
+    src="Sixt-Logo.svg.png"
+  />
+</Link>
+`;
