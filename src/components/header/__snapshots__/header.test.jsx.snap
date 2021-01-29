@@ -3,13 +3,6 @@
 exports[`<Header /> should render Header 1`] = `
 <styled.header>
   <styled.div>
-    <Link
-      to="/"
-    >
-      Back
-    </Link>
-  </styled.div>
-  <styled.div>
     <Logo />
   </styled.div>
 </styled.header>
